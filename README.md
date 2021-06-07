@@ -1,2 +1,9 @@
-# Basic_QnA_Chatbot
-A basic chatbot which answers questions based on input dataset
+## Indiebot
+**A basic chatbot which answers questions based on history of India**
+
+#### Tools used:
+**Numpy**
+<br>
+**Scikit-Learn**
+<br>
+**NLTK**
